@@ -4,7 +4,8 @@
   "description": "CypressTest_LambdaTest",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:report": "cypress run"
   },
   "author": "",
   "license": "ISC",
